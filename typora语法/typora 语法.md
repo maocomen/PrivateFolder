@@ -1,3 +1,5 @@
+[TOC]
+
 ## typora 语法
 
 ### 1、行左边加分割线
@@ -183,15 +185,11 @@
   ---
   ```
 
-### 11、Table of Contents (TOC)（目前并没有发现什么卵用）
-
-* 效果
-
-  ![A57396E8-AB7F-498D-89AB-5A9FA128F280](https://github.com/maocomen/PrivateFolder/blob/master/typora语法/Images/typora_image_eleven.png?raw=true)
+### 11、Table of Contents (TOC)
 
 * 语法
 
-  输入 ” [toc] “即可
+  文章开头输入 ” [toc] “即可展示文章目录结构
 
 * 代码示例
 
