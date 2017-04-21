@@ -187,9 +187,13 @@
 
 ### 11、Table of Contents (TOC)
 
+* 效果
+
+  ![](https://github.com/maocomen/PrivateFolder/blob/master/typora语法/Images/typora_image_eleven.png?raw=true)
+
 * 语法
 
-  文章开头输入 ” [toc] “即可展示文章目录结构
+  文章开头输入 ” [toc] “即可展示文章目录结构（直接在 wiki 上输入并没有什么卵用）。
 
 * 代码示例
 
